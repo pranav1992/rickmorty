@@ -1,4 +1,4 @@
-import { BsAlignStart, BsFillCircleFill } from "react-icons/bs";
+import { BsFillCircleFill } from "react-icons/bs";
 
 const CharacterCard = ({ results }) => {
 
